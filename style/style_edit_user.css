@@ -1,0 +1,9 @@
+#email:hover, #password:hover, #name:hover, #surname:hover, #phoneNum:hover {
+    color: violet;
+    cursor: pointer;
+}
+
+#oldPass, #newPass, #confirm{
+    display: none;
+}
+
