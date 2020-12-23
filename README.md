@@ -1,1 +1,2 @@
-# book_store
+The web-site where users can sign up and lool thriung the book that the online stote has. Also there are such functions as authorize, add a book to the cart, choose the number of books to buy, see the total price in the cart. Also, there are specific functions for the admin of the website who can add new book to the list, delete it from the list, and edit the information about the book. 
+The code is the combination of the following: html, php, css, jQuery, json, and ajax.
